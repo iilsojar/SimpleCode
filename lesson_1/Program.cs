@@ -1,4 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// lessons 1-7
+// See https://aka.ms/new-console-template for more information
 //Console.WriteLine("Hello, World!");
 //Console.WriteLine("Привет, Света, это первый урок!");
 
