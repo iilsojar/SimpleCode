@@ -1,0 +1,15 @@
+/Users/mandis/Desktop/учеба/SimpleCode/lesson_3/bin/Debug/net6.0/lesson_3
+/Users/mandis/Desktop/учеба/SimpleCode/lesson_3/bin/Debug/net6.0/lesson_3.deps.json
+/Users/mandis/Desktop/учеба/SimpleCode/lesson_3/bin/Debug/net6.0/lesson_3.runtimeconfig.json
+/Users/mandis/Desktop/учеба/SimpleCode/lesson_3/bin/Debug/net6.0/lesson_3.dll
+/Users/mandis/Desktop/учеба/SimpleCode/lesson_3/bin/Debug/net6.0/lesson_3.pdb
+/Users/mandis/Desktop/учеба/SimpleCode/lesson_3/obj/Debug/net6.0/lesson_3.csproj.AssemblyReference.cache
+/Users/mandis/Desktop/учеба/SimpleCode/lesson_3/obj/Debug/net6.0/lesson_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mandis/Desktop/учеба/SimpleCode/lesson_3/obj/Debug/net6.0/lesson_3.AssemblyInfoInputs.cache
+/Users/mandis/Desktop/учеба/SimpleCode/lesson_3/obj/Debug/net6.0/lesson_3.AssemblyInfo.cs
+/Users/mandis/Desktop/учеба/SimpleCode/lesson_3/obj/Debug/net6.0/lesson_3.csproj.CoreCompileInputs.cache
+/Users/mandis/Desktop/учеба/SimpleCode/lesson_3/obj/Debug/net6.0/lesson_3.dll
+/Users/mandis/Desktop/учеба/SimpleCode/lesson_3/obj/Debug/net6.0/refint/lesson_3.dll
+/Users/mandis/Desktop/учеба/SimpleCode/lesson_3/obj/Debug/net6.0/lesson_3.pdb
+/Users/mandis/Desktop/учеба/SimpleCode/lesson_3/obj/Debug/net6.0/lesson_3.genruntimeconfig.cache
+/Users/mandis/Desktop/учеба/SimpleCode/lesson_3/obj/Debug/net6.0/ref/lesson_3.dll
